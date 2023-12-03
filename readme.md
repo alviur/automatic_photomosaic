@@ -1,4 +1,4 @@
-# Project Name
+# Authomatic Photomosaic with perceptual metrics
 
 A brief description of the project.
 
@@ -22,9 +22,9 @@ Instructions on how to use the project.
 
 Here are three images from the "Figs" folder:
 
-![Image 1](Figs/image1.jpg)
-![Image 2](Figs/image2.jpg)
-![Image 3](Figs/image3.jpg)
+![Image 1](Figs/chihuahua.png)
+![Image 2](Figs/parrots.png)
+![Image 3](Figs/totoro.png)
 
 ## Contributing
 
